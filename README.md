@@ -1,4 +1,5 @@
 # **Traffic Sign Recognition** 
+(This is the writup I submitted to Udacity and so is just meant to address their rubric points)
 
 ---
 
